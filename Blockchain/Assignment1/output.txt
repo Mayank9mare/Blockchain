@@ -1,0 +1,124 @@
+0 => Print Blockchain 
+1 => Enter transactions
+2 => Print the wallets of users and miners
+Else => Exit
+Enter operation: Enter number of transactions:Miner Selected:  6
+Transaction details:  {'from': '1', 'to': '2', 'amount': '22.0', 'reward': '1.0', 'id': '0', 'digital_signature': '8c722dbd15f4a97599485c66d17683b1e863dab1e3166944c6ce5bb4e6e82cb5bbe0576e8772d0ac45fe293f65f87e4f3374866c1acd337d79f8e3439c23e2487c86eee9394ccb4b60a8616882fc1ad9d01b123f1dccfe96d6fc5f5c380f699e3958fb933401c9cd88958e3a82c015d46cec7be3bca8c572a442fcde559af7a0', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82BEA40>}
+Transaction details:  {'from': '3', 'to': '4', 'amount': '22.0', 'reward': '2.0', 'id': '1', 'digital_signature': '1f9be6ba1072cac6eab675b97c4bca2037ec4c3abfb026e964d33224a71ceebb5a7dc8b96c9c099d2ac6f9bc87b7dfcc7d64267607fce7c2b9de634aa5eb703bd01d6efde308902d32acb9d527f1f12abcbedc9baf5e57c206731507f506fdcf78b9211c8bf9e35f638d72cb8f86ba4912c4c79fbfcd5c8f6437e0deb1c01b99', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D09D0>}
+Transaction 3 invalid
+Transaction details:  {'from': '3', 'to': '4', 'amount': '74.0', 'reward': '2.0', 'id': '3', 'digital_signature': '82a3d9df062dc6c5e359a7fb86db2b17db8b336363482b13f93c4d5b1da6f162ae7ee98905b59c55444e19bc3403175fc2c8582fd0366f288b2d983e059c991dfbc45348091f7257a1bf84915f6ce62171c5e2157cffde4bb394092dd2af9dd2640c7d3d3e7c8c042d68a5e856cc92a385e875e2fbebad016f71241e3ac12aa0', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D09D0>}
+Transaction details:  {'from': '8', 'to': '9', 'amount': '98.0', 'reward': '2.0', 'id': '4', 'digital_signature': '153f791cfa348a8211b09b3d224553218dbf1e838c3eef11ede3ec683c1023da0a183cc532aaf42ace5647910bd963e9879a55c50a5b4749590a857d2f8f37357f64a6118fe5ecf30628cd9212856c8bebb5a3ea73a87410f2b2d1050d6f54c419d8c0ee7fb38ac9bd7b84cc6e5299e03b359ee27bf7929fce358bdad6409912', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D2EC0>}
+Block added and verified
+0 => Print Blockchain 
+1 => Enter transactions
+2 => Print the wallets of users and miners
+Else => Exit
+Enter operation: Enter number of transactions:Miner Selected:  5
+Transaction details:  {'from': '4', 'to': '5', 'amount': '22.0', 'reward': '1.0', 'id': '5', 'digital_signature': '8c7f6cdff113ab8e0b37acde23ffa0c5dd51ab2f21f2555a9dd8256e2a0839a486446b6f9deb24c6517eea355d5c753935f8cc97d0fef6362de1ae9dcb6292059095137834b44b1638cb43910194085fbebe2e0beda4f1ce5c2186d403c16f4827101640a6edefaff6c40b4f2f0299713c8f3062226fcaed3771922af320e3bf', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D0D00>}
+Transaction details:  {'from': '5', 'to': '6', 'amount': '22.0', 'reward': '1.0', 'id': '6', 'digital_signature': '7f1c519c433470dd8d240ab548f3440cdaeb04a86383d38146722a84c86f6f68443e768f1c7ddcee36319f6ecdc6e4b332e75ee15c44a372339c15ae7e33c1bc2d4085f68b86fca5fa61197a8ee87733ae1cd640ddffacd8863ce82553243593ab131b1c543d69637edd1314afb67626470abd35ade9778f223ed644eb02bb86', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D15D0>}
+Block added and verified
+0 => Print Blockchain 
+1 => Enter transactions
+2 => Print the wallets of users and miners
+Else => Exit
+Enter operation: 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Index: 0
+Previous hash 0
+Current hash 000070b0332a3fa5a6c773eca1c6de4922d1324a5865b06f9055ed63f97a9f02
+nonce 9938
+timestamp 2022-09-21 16:40:01.305062
+Merkle root 07424bb651f43e1ed795b6fcdc9b18b826ae684c3bb7408197c6d7450584aeba
+Transactions [{'from': '1', 'to': '2', 'amount': '22.0', 'reward': '1.0', 'id': '0', 'digital_signature': '8c722dbd15f4a97599485c66d17683b1e863dab1e3166944c6ce5bb4e6e82cb5bbe0576e8772d0ac45fe293f65f87e4f3374866c1acd337d79f8e3439c23e2487c86eee9394ccb4b60a8616882fc1ad9d01b123f1dccfe96d6fc5f5c380f699e3958fb933401c9cd88958e3a82c015d46cec7be3bca8c572a442fcde559af7a0', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82BEA40>}, {'from': '3', 'to': '4', 'amount': '22.0', 'reward': '2.0', 'id': '1', 'digital_signature': '1f9be6ba1072cac6eab675b97c4bca2037ec4c3abfb026e964d33224a71ceebb5a7dc8b96c9c099d2ac6f9bc87b7dfcc7d64267607fce7c2b9de634aa5eb703bd01d6efde308902d32acb9d527f1f12abcbedc9baf5e57c206731507f506fdcf78b9211c8bf9e35f638d72cb8f86ba4912c4c79fbfcd5c8f6437e0deb1c01b99', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D09D0>}, {'from': '5', 'to': '6', 'amount': '222.0', 'reward': '1.0', 'id': '2', 'digital_signature': '2adad5dac3d691385bf982e85996625035c086ab6b768f4540c79af9b0847bb4215f67ccd76fb99d6744f245735d6dffa687b6d99da20ecf53d36855aa1f901af7c3931eb19d3fdd9cf2addfd33e773f01a048583d1e59c929e14de6bb40a06b416e3ee81e4249528ca27f166f06dd78c72df8c7d1b9c5e0f4873bbaa3bf3b78', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D15D0>}, {'from': '3', 'to': '4', 'amount': '74.0', 'reward': '2.0', 'id': '3', 'digital_signature': '82a3d9df062dc6c5e359a7fb86db2b17db8b336363482b13f93c4d5b1da6f162ae7ee98905b59c55444e19bc3403175fc2c8582fd0366f288b2d983e059c991dfbc45348091f7257a1bf84915f6ce62171c5e2157cffde4bb394092dd2af9dd2640c7d3d3e7c8c042d68a5e856cc92a385e875e2fbebad016f71241e3ac12aa0', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D09D0>}, {'from': '8', 'to': '9', 'amount': '98.0', 'reward': '2.0', 'id': '4', 'digital_signature': '153f791cfa348a8211b09b3d224553218dbf1e838c3eef11ede3ec683c1023da0a183cc532aaf42ace5647910bd963e9879a55c50a5b4749590a857d2f8f37357f64a6118fe5ecf30628cd9212856c8bebb5a3ea73a87410f2b2d1050d6f54c419d8c0ee7fb38ac9bd7b84cc6e5299e03b359ee27bf7929fce358bdad6409912', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D2EC0>}]
+Transactions hash ['b7eddc51f9b7eee778e07e2ab7da58685279cb715e28c35d41b0ff9aacb81483', '71459dc6aac0c45af23c6b94e8977b0eae7828a9cd58e726c6fe906cdd8cb00a', '0a0a74ef417d5f751d4e27e944180c1d2ee15daf6896592a84240eef00021d99', '4fc3fc0d8497bda51204df6722e4b7d750c3e9d8c0f87e6f78d5be1e3f77c9a0', '7a2c36836f7e5d791a447aba2f5689c403f405f6f07e45f1bad175d9e4888614']
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Index: 1
+Previous hash 000070b0332a3fa5a6c773eca1c6de4922d1324a5865b06f9055ed63f97a9f02
+Current hash 0000cca3be232000883500b51f1e7519dd218b1ef4608dabbfc7a6696bc7c04c
+nonce 1670
+timestamp 2022-09-21 16:40:01.981228
+Merkle root 38f3b88a3a154616ec0dec0624aa325dde22739001a57abf567cb4f36a135f43
+Transactions [{'from': '4', 'to': '5', 'amount': '22.0', 'reward': '1.0', 'id': '5', 'digital_signature': '8c7f6cdff113ab8e0b37acde23ffa0c5dd51ab2f21f2555a9dd8256e2a0839a486446b6f9deb24c6517eea355d5c753935f8cc97d0fef6362de1ae9dcb6292059095137834b44b1638cb43910194085fbebe2e0beda4f1ce5c2186d403c16f4827101640a6edefaff6c40b4f2f0299713c8f3062226fcaed3771922af320e3bf', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D0D00>}, {'from': '5', 'to': '6', 'amount': '22.0', 'reward': '1.0', 'id': '6', 'digital_signature': '7f1c519c433470dd8d240ab548f3440cdaeb04a86383d38146722a84c86f6f68443e768f1c7ddcee36319f6ecdc6e4b332e75ee15c44a372339c15ae7e33c1bc2d4085f68b86fca5fa61197a8ee87733ae1cd640ddffacd8863ce82553243593ab131b1c543d69637edd1314afb67626470abd35ade9778f223ed644eb02bb86', 'public_key': <Crypto.Cipher.PKCS1_OAEP.PKCS1OAEP_Cipher object at 0x0000022BB82D15D0>}]
+Transactions hash ['d8546fb1e4d6d99bc1b99941f836cbe5f3b4c760c3d720255fe86565a28ad9e3', '7fb2fc78ecbf784ab340d0bfa395ce1564707e3e3afe6c713cbb0b4819112959']
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0 => Print Blockchain 
+1 => Enter transactions
+2 => Print the wallets of users and miners
+Else => Exit
+Enter operation: Name: User1 id: 1
+[[77.0, '4ed6a3efe21aeaaa92f2fd26a007fe574000180e7e8b09c7de40d1baf568b70a']]
+Name: User2 id: 2
+[[100.0, '27f01fe37645871a4e0c9826ded3b7a1f05bacf200dd7c9b26561ec0b79fa379'], [22.0, '4ed6a3efe21aeaaa92f2fd26a007fe574000180e7e8b09c7de40d1baf568b70a']]
+Name: User3 id: 3
+[]
+Name: User4 id: 4
+[[77.0, 'a8b278120d5e48c8519cb7b0bc8f98b7061c28000fdd5991e7a3523ba0b9a0de'], [22.0, 'b4e646b22dfbb97ba1b3ff66d5dc66739485ab18a61bc42f13d348385cba4a7f'], [74.0, 'b4e646b22dfbb97ba1b3ff66d5dc66739485ab18a61bc42f13d348385cba4a7f']]
+Name: User5 id: 5
+[[77.0, 'ffffbaef036b402a5408cd6f317228473eda87fa01fad350d99c64c1b4b50458'], [22.0, 'a8b278120d5e48c8519cb7b0bc8f98b7061c28000fdd5991e7a3523ba0b9a0de']]
+Name: User6 id: 6
+[[100.0, 'eefbc750b322f107324f4abe987448cf9d343417bf7e5c428cb5425fec05ec32'], [22.0, 'ffffbaef036b402a5408cd6f317228473eda87fa01fad350d99c64c1b4b50458']]
+Name: User7 id: 7
+[[100.0, '22ec1c7ad504196ab24a1860c26dd207022a36fd54c5c0700752ff915189f887']]
+Name: User8 id: 8
+[]
+Name: User9 id: 9
+[[100.0, 'f2f71fa31babef88aff6d96d201764bee6e14535368040c5aa3974ded5ed03fb'], [98.0, '9d23dee7bacc655b2cda27f810b74df763b7122cbc51aeaa07bf2d0ed2cd00bd']]
+Name: User10 id: 10
+[[100.0, '942ed2877bcca73e2f794fdb1f2ca5539b241de833ed4e0ca8e6986aa8da7ed7']]
+Name: User11 id: 11
+[[100.0, '5a3326e9d1da0fc3a706404ff824ae947949db8667afdbec06136e0e36930c1e']]
+Name: User12 id: 12
+[[100.0, '22f45697a25143b7be6a59cf6595ada85be891cca25c605b7fbb46a5c153b5fd']]
+Name: User13 id: 13
+[[100.0, 'd081e2963017662ba6282dc5871d86b6051e6aeb75926e75abd0a496676b6917']]
+Name: User14 id: 14
+[[100.0, '126d67d74a2ce3d919d319b1391eb894ddf12d932c1a53f34d8d20bb4d522ba5']]
+Name: User15 id: 15
+[[100.0, 'c51b2e2c0319f423bf433fc283e3cf98be24feebeccbd7b5cc3a66aab5d23e7d']]
+Name: User16 id: 16
+[[100.0, '0c64624be608c1da6552910899bc069e510fae3355bb674df4f89a346246076e']]
+Name: User17 id: 17
+[[100.0, 'a24e0f759e2d09962c6949442838f32e2f549fc44fd8294a927361368622c094']]
+Name: User18 id: 18
+[[100.0, '0b274822e8f3ecae16b4036dc87054695340ba88d6c594203a673c44c4125467']]
+Name: User19 id: 19
+[[100.0, '64100a4746a2656022f9b113293d6d3e03dc20d54ecfa6a7f8194418e5591063']]
+Name: User20 id: 20
+[[100.0, '25b842ce22b325e1edbf993d99c1b10bcdf6f31d4cf260c9a56f007c46b2f709']]
+Miner0
+ [[100.0, '80d39ffbe819737cb74b115581e19361b46b459b02600efc35c1c227af25eb2b']]
+Miner1
+ [[100.0, 'cc06926460286345f02d7eee82910d127a300804845c000d55e12ef85b20fa73']]
+Miner2
+ [[100.0, '3a9508cbf5e900db7f84e32f7558a3d1cba8c5ec552e72f113ca7bb98f6c063e']]
+Miner3
+ [[100.0, '2ec567b8a3bbe93f1031e7eb4a2dd89fa6330f19cd36519f474daddbb75e60c7']]
+Miner4
+ [[100.0, '1c9f6656eb2c3386618be2c14b3b0a637b3f7f9b1c13ca5e6717895cbf95f5d0']]
+Miner5
+ [[100.0, '718549f30be8167556bcbad11193c6667299c3e8ab1ee191003a559690124eef'], [1.0, 'a8b278120d5e48c8519cb7b0bc8f98b7061c28000fdd5991e7a3523ba0b9a0de'], [1.0, 'ffffbaef036b402a5408cd6f317228473eda87fa01fad350d99c64c1b4b50458']]
+Miner6
+ [[100.0, '427805929cb91d896f7fd41b2dc66b68e253cd99e408399e7e858f292e03a6ed'], [1.0, '4ed6a3efe21aeaaa92f2fd26a007fe574000180e7e8b09c7de40d1baf568b70a'], [2.0, 'b4e646b22dfbb97ba1b3ff66d5dc66739485ab18a61bc42f13d348385cba4a7f'], [2.0, 'b4e646b22dfbb97ba1b3ff66d5dc66739485ab18a61bc42f13d348385cba4a7f'], [2.0, '9d23dee7bacc655b2cda27f810b74df763b7122cbc51aeaa07bf2d0ed2cd00bd']]
+Miner7
+ [[100.0, 'aa9112344bb8a046df422fdd547ea01604b108fefc5218ccf95f637d17306cca']]
+Miner8
+ [[100.0, 'c1dd068eb381466dc7d9011a2f92c466b9f0bf47d7502999045ca5ca2035bb13']]
+Miner9
+ [[100.0, 'b0bfff75e14c1278bd76defd579105c4c9335a8a883012de856a263178083293']]
+0 => Print Blockchain 
+1 => Enter transactions
+2 => Print the wallets of users and miners
+Else => Exit
+Enter operation: 
